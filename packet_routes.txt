@@ -1,0 +1,100 @@
+Path: [7, 13, 18], Total latency: 6.23 ms
+Path: [7, 13, 18], Total latency: 6.23 ms
+Path: [9, 0, 8], Total latency: 4.95 ms
+Path: [12, 0], Total latency: 6.31 ms
+Path: [18, 19, 5, 15], Total latency: 10.01 ms
+Path: [18, 19, 5], Total latency: 8.69 ms
+Path: [5, 1], Total latency: 2.73 ms
+Path: [10, 19, 6], Total latency: 9.20 ms
+Path: [6, 1, 4], Total latency: 13.55 ms
+Path: [11, 0, 9], Total latency: 10.71 ms
+Path: [17, 2, 5, 1, 11], Total latency: 16.74 ms
+Path: [5, 2, 17], Total latency: 5.65 ms
+Path: [13, 18, 19, 6], Total latency: 16.42 ms
+Path: [1, 5, 15, 16], Total latency: 10.45 ms
+Path: [15, 16], Total latency: 6.40 ms
+Path: [18, 19, 0, 11], Total latency: 17.42 ms
+Path: [13, 18], Total latency: 3.92 ms
+Path: [8, 0, 12], Total latency: 10.00 ms
+Path: [5, 19, 0, 9], Total latency: 5.98 ms
+Path: [0, 19, 5, 15], Total latency: 6.05 ms
+Path: [17, 2, 5], Total latency: 5.65 ms
+Path: [19, 5, 2], Total latency: 6.09 ms
+Path: [13, 16, 15, 5], Total latency: 11.55 ms
+Path: [15, 5, 19, 0], Total latency: 6.05 ms
+Path: [0, 19, 5, 15, 16], Total latency: 12.44 ms
+Path: [10, 19, 0, 12], Total latency: 10.98 ms
+Path: [12, 0, 19, 18, 13], Total latency: 18.20 ms
+Path: [8, 19, 5], Total latency: 7.14 ms
+Path: [0, 19, 6], Total latency: 8.54 ms
+Path: [0, 19], Total latency: 2.00 ms
+Path: [18, 19, 5, 1], Total latency: 11.41 ms
+Path: [8, 19, 18, 13], Total latency: 14.31 ms
+Path: [6, 1, 5, 2], Total latency: 11.83 ms
+Path: [17, 16], Total latency: 5.30 ms
+Path: [13, 16, 15, 5, 1], Total latency: 14.28 ms
+Path: [11, 1, 6, 14], Total latency: 20.39 ms
+Path: [11, 1], Total latency: 8.36 ms
+Path: [16, 15, 5, 19, 0, 9], Total latency: 13.71 ms
+Path: [18, 19, 5, 1], Total latency: 11.41 ms
+Path: [11, 0, 19, 18], Total latency: 17.42 ms
+Path: [7, 17, 8], Total latency: 13.62 ms
+Path: [19, 5, 2, 17], Total latency: 8.36 ms
+Path: [1, 5, 2, 17], Total latency: 8.38 ms
+Path: [10, 19, 8, 14], Total latency: 14.68 ms
+Path: [1, 5, 2], Total latency: 6.10 ms
+Path: [7, 13, 18, 19], Total latency: 12.20 ms
+Path: [11, 1, 5, 15, 16], Total latency: 18.81 ms
+Path: [19, 6], Total latency: 6.54 ms
+Path: [9, 0, 19, 5, 15], Total latency: 7.31 ms
+Path: [13, 18, 19, 3], Total latency: 10.96 ms
+Path: [19, 5, 2, 17], Total latency: 8.36 ms
+Path: [4, 16, 13, 7], Total latency: 15.41 ms
+Path: [15, 5, 1], Total latency: 4.05 ms
+Path: [17, 2, 5, 1, 11], Total latency: 16.74 ms
+Path: [16, 13, 7], Total latency: 6.14 ms
+Path: [5, 19, 0], Total latency: 4.72 ms
+Path: [12, 0, 19, 18], Total latency: 14.28 ms
+Path: [4, 1, 5, 19], Total latency: 13.26 ms
+Path: [8, 19, 18, 13], Total latency: 14.31 ms
+Path: [10, 19, 0], Total latency: 4.67 ms
+Path: [2, 17, 16], Total latency: 7.57 ms
+Path: [10, 19, 5, 15], Total latency: 6.71 ms
+Path: [17, 18], Total latency: 3.79 ms
+Path: [0, 19, 5, 2, 17], Total latency: 10.37 ms
+Path: [10, 19], Total latency: 2.67 ms
+Path: [3, 19, 10], Total latency: 3.74 ms
+Path: [16, 13, 7], Total latency: 6.14 ms
+Path: [2, 17, 16], Total latency: 7.57 ms
+Path: [17, 18], Total latency: 3.79 ms
+Path: [5, 19, 8], Total latency: 7.14 ms
+Path: [19, 0, 9], Total latency: 3.27 ms
+Path: [0, 19, 18], Total latency: 7.97 ms
+Path: [15, 5, 1, 12], Total latency: 12.19 ms
+Path: [2, 10], Total latency: 6.70 ms
+Path: [10, 13, 7], Total latency: 10.76 ms
+Path: [19, 0, 12], Total latency: 8.31 ms
+Path: [4, 1, 5, 2], Total latency: 13.92 ms
+Path: [17, 2, 5, 19, 0], Total latency: 10.37 ms
+Path: [4, 1, 5, 19, 3], Total latency: 14.34 ms
+Path: [9, 0, 8, 14], Total latency: 12.55 ms
+Path: [13, 7, 17], Total latency: 6.22 ms
+Path: [15, 16], Total latency: 6.40 ms
+Path: [14, 8, 19, 18, 13], Total latency: 21.91 ms
+Path: [4, 1, 5, 19, 8], Total latency: 17.68 ms
+Path: [6, 1, 5], Total latency: 8.46 ms
+Path: [0, 19, 5, 1, 4], Total latency: 15.26 ms
+Path: [10, 13, 7], Total latency: 10.76 ms
+Path: [7, 13, 18, 19, 3], Total latency: 13.28 ms
+Path: [6, 8], Total latency: 6.18 ms
+Path: [6, 1, 11], Total latency: 14.09 ms
+Path: [19, 18], Total latency: 5.97 ms
+Path: [3, 19, 0, 9], Total latency: 4.34 ms
+Path: [3, 19, 5, 15, 16], Total latency: 11.51 ms
+Path: [14, 8, 19], Total latency: 12.02 ms
+Path: [5, 1, 6], Total latency: 8.46 ms
+Path: [18, 19, 6], Total latency: 12.51 ms
+Path: [5, 19], Total latency: 2.71 ms
+Path: [1, 4], Total latency: 7.82 ms
+Path: [17, 18], Total latency: 3.79 ms
+Path: [1, 4], Total latency: 7.82 ms
